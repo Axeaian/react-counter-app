@@ -10,6 +10,14 @@
   text-align: center;
 }
 
+.redB{
+  background: red;
+}
+
+.blueB{
+  background: blue;
+}
+
 .center{
   text-align: center;
   display: flex;
